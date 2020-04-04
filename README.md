@@ -1,30 +1,41 @@
-# happjfarm
-An application for farmers and traders, made by HappjTech.
+# HAPPJ FARM MAP
+Easier getting agricultural products from everywhere.
 
-## Clone project:
+
+# About The Project
+As an international student from VietNam where agriculture employs more than 50% of the total workforce. We have come across many incidents in which farmers are suffering because of high debt burdens, corruption in subsidies, and crop failure. We thought to build something with our skills which gives them profit. We also decided to consider consumer satisfaction. Not getting enough money for their crop is the most serious problem they are facing right now. Eliminating third parties and connecting farmers with customers would be helpful for the agriculture sector.
+
+## What it do
+It is an application where farmers can post their crops those can be anything like vegetables, fruits or pulses and also the price of the product. the customer can search for nearby farms using google map and buy from this platform. We are responsible for the delivery of the products.
+
+## App Screenshots
+<center>
+<img src="images/i_1.png">
+<img src="images/i_2.png">
+<img src="images/i_3.png">
+<img src="images/i_4.png">
+<img src="images/i_6.png">
+<img src="images/i_7.png">
+</center>
+
+## Built With
+Flutter | Firebase | Google API
+
+## Getting Started
+1. Clone the project repo:
 ```bash
 git clone https://github.com/Kianto/happjfarm.git
-
 ```
+2. Register Google APIs [Maps SDK for Android and Maps SDK for iOS](https://console.cloud.google.com)). Replace <GOOGLE_API_KEY> in the project by the key. Replace both AndroidManifest.xml file in android and Info.plist file in iOS.
+3. For the app development in the future, it also need real-time database and authentication service on Firebase.
+4. Open project by Android Studio or Visual Studio Code to build and run.
 
-# Inspiration
-As an international student from Viet Nam where agriculture employs more than 50% of the total workforce. We have come across many incidents in which farmers are suffering because of high debt burdens, corruption in subsidies, and crop failure. We thought to build something with our skills which gives them profit. We also decided to consider consumer satisfaction. Not getting enough money for their crop is the most serious problem they are facing right now. Eliminating third parties and connecting farmers with customers would be helpful for the agriculture sector.
+## License
+Distributed under a HappjTech license.
 
-# What it do
-It is an application where a farmer can post his crop it can be anything like vegetables, fruits or pulses and also the price of the product. the customer can search for nearby farms using google maps and buy from this platform. We are responsible for the delivery of the product.
+## Contact
+Kianto: lychinhky@gmail.com
+Henry: discoverinvietnam@gmail.com
 
-# How I built it 
-Happj Farm Map is built by Flutter with Dart program language. To store data and authenticate users, we used Firebase services and Google API to show locations on Google Map
-
-# Challenges I ran into
-When we started this project, we knew nothing about machine learning or Flutter and had to start from scratch. However, with some googling and trying stuff out, we were able to figure out how to implement Flutter for our project with relative ease. Another challenge was collecting, preparing, and labelling our data set of 200 farmer
-
-# What I learned
-I'm very new to backend development but I learned how to use Firebase and Google APIs
-
-# What's next for happj farm
-In the future, we want to add a crop recommendation system for farmers in our platform to suggest them crop based on weather conditions and also try to expand this to many farmers and consumers.
-
-# Built With
-Flutter | Firebase | Google API
+IF YOU THINK THAT YOU CAN HELP ME TO HELP OTHERS, PLEASE DO NOT HESITATE TO CONTACT ME.
 
