@@ -10,12 +10,7 @@ It is an application where farmers can post their crops those can be anything li
 
 ## Screenshots
 <center>
-<img src="images/i_1.jpg">
-<img src="images/i_2.jpg">
-<img src="images/i_3.jpg">
-<img src="images/i_4.jpg">
-<img src="images/i_6.jpg">
-<img src="images/i_7.jpg">
+<img src="images/e_i_0.jpg" with="80%">
 </center>
 
 ## Built With
